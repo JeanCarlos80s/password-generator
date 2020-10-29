@@ -1,11 +1,11 @@
 <h1 align="center">
-    Ecoleta
+    Password Generator
 </h1>
 
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/screen.png" width="100%">
+  <img alt="Frontend" src="main/src/assets/Capturar.PNG" width="100%">
 </p>
 
 ## Tecnologias
@@ -16,12 +16,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 
 Aplicação simples de geração de de senha.
-
-## Layout
-
-<p align="center">
-  <img alt="Layout" src="./src/assets/screen.jpg" width="100%">
-</p>
 
 
 ---
