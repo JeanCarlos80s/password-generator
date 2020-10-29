@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="main/main/src/assets/Capturar.PNG" width="100%">
+  <img alt="Frontend" src="assets/Capturar.PNG" width="100%">
 </p>
 
 ## Tecnologias
